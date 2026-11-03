@@ -1,0 +1,7 @@
+# Biometric data: never commit
+prints/
+*.png
+
+.venv/
+__pycache__/
+nbis/libfpmatch.dylib
